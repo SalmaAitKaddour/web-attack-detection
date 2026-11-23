@@ -1,0 +1,21 @@
+{
+  "raw_rows": 61065,
+  "raw_normal": 36000,
+  "raw_anomalous": 25065,
+  "removed_non_injection_anomalies": 19918,
+  "after_filter_rows": 41147,
+  "duplicates_removed": 27802,
+  "conflicting_rows_removed": 0,
+  "final_rows": 13345,
+  "final_normal": 9644,
+  "final_injection": 3701,
+  "final_injection_ratio": 0.2773,
+  "train_rows": 10676,
+  "train_normal": 7715,
+  "train_injection": 2961,
+  "train_injection_ratio": 0.2774,
+  "val_rows": 2669,
+  "val_normal": 1929,
+  "val_injection": 740,
+  "val_injection_ratio": 0.2773
+}
